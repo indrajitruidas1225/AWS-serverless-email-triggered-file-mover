@@ -8,12 +8,12 @@ This project lets users upload a file to a public website. After uploading, they
 
 ### Technologies Used
 
-- **Amazon S3** — File storage (public upload + inbox bucket)  
-- **Amazon SES** — Send and receive email  
-- **Amazon Lambda** — Handle email replies and move files  
-- **Amazon S3 Events** — Trigger Lambda on email reception  
-- **IAM Roles and Policies** — Secure access between services  
-- **Route 53** — Custom domain DNS  
+- **Amazon S3** - File storage (public upload + inbox bucket)  
+- **Amazon SES** - Send and receive email  
+- **Amazon Lambda** - Handle email replies and move files  
+- **Amazon S3 Events** - Trigger Lambda on email reception  
+- **IAM Roles and Policies** - Secure access between services  
+- **Route 53** - Custom domain DNS  
 
 ### Domain & Email Setup
 
