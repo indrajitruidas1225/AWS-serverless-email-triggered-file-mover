@@ -4,7 +4,7 @@ This project lets users upload a file to a public website. After uploading, they
 
 ### Architecture
 
-[architecture](./architecture/architecture.png)
+![Architecture](./architecture/architecture.png)
 
 ### Technologies Used
 
